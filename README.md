@@ -137,6 +137,6 @@ curl -X GET https://placeholder-api.com/get-location
 📌 **Disclaimer:** This software is for research and educational purposes only. Ensure compliance with local drone regulations before testing with real hardware.  
 
 Developed by: **[Deepak]**   &  **[Saurav]** 
-📧 **Contact:** [Your Email]  
+📧 **Contact:** [sauravdutta0219@gmail.com , deepakpopli002@gmail.com]  
 
 🚀 **Happy Flying!** ✈️✨
